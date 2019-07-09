@@ -1,5 +1,5 @@
 # Dark Theme for Chrome
-Google Chrome Theme 
+Google Chrome Theme </br>
 This theme is based on Chrome Dark Theme
 
 
