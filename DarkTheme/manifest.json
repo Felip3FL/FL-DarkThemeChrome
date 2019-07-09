@@ -1,0 +1,62 @@
+{
+    "name": "Dark Theme by Felip3FL",
+    "version": "1.0",
+    "description": "",
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_frame": "images\/theme_frame.png",
+            "theme_toolbar": "images\/theme_toolbar.png",
+            "theme_tab_background": "images\/theme_tab_background.png",
+            "theme_ntp_background": "images\/theme_ntp_background.png"
+        },
+        "colors": {
+            "frame": [
+                0,
+                0,
+                0
+            ],
+            "toolbar": [
+                35,
+                36,
+                39
+            ],
+            "tab_text": [
+                249,
+                249,
+                249
+            ],
+            "tab_background_text": [
+                190,
+                190,
+                190
+            ],          
+            "bookmark_text": [
+                190,
+                190,
+                190
+            ],
+            "ntp_background": [
+                35,
+                36,
+                39
+            ],
+            "ntp_text": [
+                0,
+                0,
+                0
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0,
+                0,
+                0.9
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "left top",
+            "ntp_background_repeat": "no-repeat"
+        }
+    }
+}
